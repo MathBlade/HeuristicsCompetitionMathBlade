@@ -1,0 +1,14 @@
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.exe
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.deps.json
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.runtimeconfig.json
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.runtimeconfig.dev.json
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.dll
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.csprojResolveAssemblyReference.cache
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.csproj.CoreCompileInputs.cache
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.AssemblyInfoInputs.cache
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.AssemblyInfo.cs
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.pdb
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.dll
+C:\Users\MathBlade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Release\netcoreapp2.0\win10-x64\HeuristicsCompetitionMathBlade.pdb

@@ -1,0 +1,11 @@
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.deps.json
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.runtimeconfig.json
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.runtimeconfig.dev.json
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.dll
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\bin\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.pdb
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.csprojResolveAssemblyReference.cache
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.csproj.CoreCompileInputs.cache
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.AssemblyInfoInputs.cache
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.AssemblyInfo.cs
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.dll
+c:\users\mathblade\source\repos\HeuristicsCompetitionMathBlade\HeuristicsCompetitionMathBlade\obj\Debug\netcoreapp2.0\HeuristicsCompetitionMathBlade.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HeuristicsCompetitionMathBlade": {
+      "commandName": "Project",
+      "commandLineArgs": "-g \"C:\\Users\\MathBlade\\source\\repos\\HeuristicsCompetitionMathBlade\\HeuristicsCompetitionMathBlade\\Data Files\\Grid 5.txt\" -o 1 -z 3 -h 5 -RealDistance false"
+    }
+  }
+}
